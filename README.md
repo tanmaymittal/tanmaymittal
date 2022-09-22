@@ -1,4 +1,12 @@
-### Hi there 👋
+### Something brought you here, something will make you stay 
+
+- I've worked on a few amazing projects, some of which are still active. These include:
+-- autoBot
+-- Crypto Dashboard 
+-- Bazaar 
+-- CruzCal 
+
+- 🔭 I’m currently working on a script that controls my Tesla through my laptop! 
 
 <!--
 **tanmaymittal/tanmaymittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
