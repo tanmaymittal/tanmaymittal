@@ -1,10 +1,11 @@
 ### Something brought you here, something will make you stay 
 
 - I've worked on a few amazing projects, some of which are still active. These include:
--- autoBot
--- Crypto Dashboard 
--- Bazaar 
--- CruzCal 
+* autoBot
+* Crypto Dashboard 
+* Bazaar 
+* CruzCal 
+* Trading Crypto Currency through Binance 
 
 - 🔭 I’m currently working on a script that controls my Tesla through my laptop! 
 
