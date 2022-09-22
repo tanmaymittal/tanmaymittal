@@ -1,7 +1,6 @@
 ### Something brought you here, something will make you stay 
 
-I've worked on a few amazing projects, some of which are still active. 
-- These include:
+I've worked on a few amazing projects, some of which are still active. These include:
 * autoBot
 * Crypto Dashboard 
 * Bazaar 
