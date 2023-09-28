@@ -1,4 +1,4 @@
-### Something brought you here, something will make you stay 
+### Hey, I'm Tanmay! Check out my projects
 
 I've worked on a few amazing projects, some of which are still active. These include:
 * autoBot
